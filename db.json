@@ -1,7 +1,5 @@
 {
-  "user": {
-    "id": 1,
-    "name": "Lokesh",
-    "designation": "Senior Software Engineer"
-  }
+  "logs": [
+    "sample"
+  ]
 }
